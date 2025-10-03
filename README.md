@@ -22,10 +22,10 @@ It combines productivity features with a clean UI, dark moode, and smart task ma
 **Clean & responsive UI** (works on desktop and mobile)
 
 ## Tech Stack
-- [React] + [Vite]
-- [CSS] for styling
-- [GitHub] for version control
-- [Vercel] for deployment
+- [React](https://react.dev) + [Vite](https://vitejs.dev)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) for styling
+- [GitHub](https://github.com/) for version control
+- [Vercel](https://vercel.com/) for deployment
 
 ---
 
